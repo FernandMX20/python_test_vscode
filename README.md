@@ -1,0 +1,1 @@
+Testing Visual Studio Code and Git, on python example
